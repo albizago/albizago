@@ -4,13 +4,14 @@
 
 😄 My name is **Alberto** and I'm a **physics student**, currently in the last year of my bachelor's.
 
-🤩 I love (no strict order of preference) ***programming physics simulations, writing in ✨ LaTeX ✨**, reading, getting lost in Wikipedia and learning random stuff, improvising on the piano, attending classical concerts, writing endless hypotactic sentences, playing and watching football, making terrible wordplay jokes, wandering alone at night, travelling (by train), trainspotting, gazing at romantic paintings, helping others and... of couse, studying.*
+🤩 I love (no strict order of preference) ***programming physics simulations, writing in ✨ LaTeX ✨**, reading, getting lost in Wikipedia and learning random stuff, improvising on the piano, attending classical concerts, writing endless hypotactic sentences, playing and watching football, making terrible wordplay jokes, wandering alone at night, travelling (by train), trainspotting, gazing at romantic paintings, helping others and... of couse, studying. But not too much.*
 
 ***
 
 #### Currently I'm:
-- 🍒 Learning **Julia**
+- 🍒 Learning **Julia** and **ITensor**
 - 🖋️ Working on **my thesis**
+- 😵‍💫 Trying to figure out what to do with my life
 
 ***
 
