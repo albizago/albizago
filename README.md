@@ -11,7 +11,7 @@
 #### Currently I'm:
 - 🍒 Learning **Julia** and **ITensor**
 - 🖋️ Working on **my thesis**
-- 🪶 Worshipping the beauty of **woodpidgeons**
+- 🪶 Worshipping the beauty of **wood pidgeons**
 - 😵‍💫 Trying to figure out what to do with my life
 
 ***
