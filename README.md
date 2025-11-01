@@ -2,16 +2,14 @@
 
 ***
 
-😄 My name is **Alberto** and I'm a **physics student**, currently in the last year of my bachelor's.
+😄 My name is **Alberto** and I'm a **physics student**, currently in the first year of my master's in Theoretical Physics at the University of Bologna (after earning my bachelor's degree here in October '25).
 
 🤩 I love (no strict order of preference) ***programming physics simulations, writing in ✨ LaTeX ✨**, reading, getting lost in Wikipedia and learning random stuff, improvising on the piano, attending classical concerts, writing endless hypotactic sentences, playing and watching football, making terrible wordplay jokes, wandering alone at night, travelling (by train), trainspotting, gazing at romantic paintings, helping others and... of couse, studying. But not too much.*
 
 ***
 
 #### Currently I'm:
-- 🍒 Learning **Julia** and **ITensor**
-- 🖋️ Working on **my thesis**
-- 🪶 Worshipping the beauty of **wood pidgeons**
+- 📚 Beginning my master's course
 - 😵‍💫 Trying to figure out what to do with my life
 
 ***
